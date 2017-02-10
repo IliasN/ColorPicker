@@ -1,0 +1,8 @@
+C:\Users\N'HAIRII_INFO\Desktop\SimpleColorPicker\SimpleColorPicker\bin\Release\SimpleColorPicker.exe.config
+C:\Users\N'HAIRII_INFO\Desktop\SimpleColorPicker\SimpleColorPicker\bin\Release\SimpleColorPicker.exe
+C:\Users\N'HAIRII_INFO\Desktop\SimpleColorPicker\SimpleColorPicker\bin\Release\SimpleColorPicker.pdb
+C:\Users\N'HAIRII_INFO\Desktop\SimpleColorPicker\SimpleColorPicker\obj\Release\SimpleColorPicker.frmMain.resources
+C:\Users\N'HAIRII_INFO\Desktop\SimpleColorPicker\SimpleColorPicker\obj\Release\SimpleColorPicker.Properties.Resources.resources
+C:\Users\N'HAIRII_INFO\Desktop\SimpleColorPicker\SimpleColorPicker\obj\Release\SimpleColorPicker.csproj.GenerateResource.Cache
+C:\Users\N'HAIRII_INFO\Desktop\SimpleColorPicker\SimpleColorPicker\obj\Release\SimpleColorPicker.exe
+C:\Users\N'HAIRII_INFO\Desktop\SimpleColorPicker\SimpleColorPicker\obj\Release\SimpleColorPicker.pdb
