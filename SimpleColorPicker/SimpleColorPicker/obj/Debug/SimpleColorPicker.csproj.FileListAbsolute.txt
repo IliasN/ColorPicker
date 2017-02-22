@@ -7,3 +7,12 @@ C:\Users\N'HAIRII_INFO\Desktop\SimpleColorPicker\SimpleColorPicker\bin\Debug\Sim
 C:\Users\N'HAIRII_INFO\Desktop\SimpleColorPicker\SimpleColorPicker\obj\Debug\SimpleColorPicker.exe
 C:\Users\N'HAIRII_INFO\Desktop\SimpleColorPicker\SimpleColorPicker\obj\Debug\SimpleColorPicker.pdb
 C:\Users\N'HAIRII_INFO\Desktop\SimpleColorPicker\SimpleColorPicker\obj\Debug\SimpleColorPicker.frmMain.resources
+C:\Users\N'HAIRII_INFO\ColorPicker\SimpleColorPicker\SimpleColorPicker\bin\Debug\SimpleColorPicker.exe.config
+C:\Users\N'HAIRII_INFO\ColorPicker\SimpleColorPicker\SimpleColorPicker\obj\Debug\SimpleColorPicker.exe
+C:\Users\N'HAIRII_INFO\ColorPicker\SimpleColorPicker\SimpleColorPicker\obj\Debug\SimpleColorPicker.pdb
+C:\Users\N'HAIRII_INFO\ColorPicker\SimpleColorPicker\SimpleColorPicker\bin\Debug\SimpleColorPicker.exe
+C:\Users\N'HAIRII_INFO\ColorPicker\SimpleColorPicker\SimpleColorPicker\bin\Debug\SimpleColorPicker.pdb
+C:\Users\N'HAIRII_INFO\ColorPicker\SimpleColorPicker\SimpleColorPicker\obj\Debug\SimpleColorPicker.csprojResolveAssemblyReference.cache
+C:\Users\N'HAIRII_INFO\ColorPicker\SimpleColorPicker\SimpleColorPicker\obj\Debug\SimpleColorPicker.frmMain.resources
+C:\Users\N'HAIRII_INFO\ColorPicker\SimpleColorPicker\SimpleColorPicker\obj\Debug\SimpleColorPicker.Properties.Resources.resources
+C:\Users\N'HAIRII_INFO\ColorPicker\SimpleColorPicker\SimpleColorPicker\obj\Debug\SimpleColorPicker.csproj.GenerateResource.Cache
